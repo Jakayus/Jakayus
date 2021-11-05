@@ -2,7 +2,7 @@
 <h3 align="left">Enthusiastic engineer living in the Sonoran desert</h3>
 
 
-- 💻 I’m currently learning **SwiftUI**, with particular interest in leveling up with Combine and WatchOS
+- 💻 I’m currently learning **SwiftUI**, with particular interests in **Combine** and **WatchOS**
 - 👥 I am looking to collaborate on SwiftUI based projects
 - 📫 How to reach me - jakayus123@gmail.com
 
